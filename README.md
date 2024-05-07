@@ -88,9 +88,9 @@ return 0;
 
 
 ## OUTPUT
+![image](https://github.com/HIRU-VIRU/Linux-File-IO-Systems-locking/assets/145972122/011f0474-9e68-409f-b3bd-e2232013a488)
+![image](https://github.com/HIRU-VIRU/Linux-File-IO-Systems-locking/assets/145972122/6c86a004-dbf1-4c00-b6ea-ffb59debb20d)
 
-![alt text](image-2.png)
 
-![alt text](image-3.png)
 # RESULT:
 The programs are executed successfully.
