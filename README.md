@@ -90,6 +90,8 @@ return 0;
 ## OUTPUT
 ![image](https://github.com/HIRU-VIRU/Linux-File-IO-Systems-locking/assets/145972122/011f0474-9e68-409f-b3bd-e2232013a488)
 ![image](https://github.com/HIRU-VIRU/Linux-File-IO-Systems-locking/assets/145972122/6c86a004-dbf1-4c00-b6ea-ffb59debb20d)
+![image](https://github.com/HIRU-VIRU/Linux-File-IO-Systems-locking/assets/145972122/519ea501-817b-497d-961b-ab35a5d0522a)
+
 
 
 # RESULT:
